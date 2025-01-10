@@ -1,0 +1,683 @@
+{
+  "overall_stats": {
+    "message_count": 375959,
+    "positive_count": 26001,
+    "negative_count": 13608,
+    "neutral_count": 332141,
+    "total_sentiment_count": 12393,
+    "average_polarity": 0.014330124549178386,
+    "average_subjectivity": 0.06921017958159775
+  },
+  "time_series": [
+    {
+      "date": "2019-03",
+      "message_count": 1215,
+      "positive_count": 48,
+      "negative_count": 22,
+      "neutral_count": 1145,
+      "total_sentiment_count": 26,
+      "average_polarity": 0.005228405453714095,
+      "average_subjectivity": 0.039028515608762505
+    },
+    {
+      "date": "2019-04",
+      "message_count": 5862,
+      "positive_count": 141,
+      "negative_count": 94,
+      "neutral_count": 5627,
+      "total_sentiment_count": 47,
+      "average_polarity": 0.0039640649070024755,
+      "average_subjectivity": 0.028774787279137338
+    },
+    {
+      "date": "2019-05",
+      "message_count": 3860,
+      "positive_count": 76,
+      "negative_count": 29,
+      "neutral_count": 3755,
+      "total_sentiment_count": 47,
+      "average_polarity": 0.005600604490500864,
+      "average_subjectivity": 0.01996934369602764
+    },
+    {
+      "date": "2019-06",
+      "message_count": 4325,
+      "positive_count": 64,
+      "negative_count": 41,
+      "neutral_count": 4220,
+      "total_sentiment_count": 23,
+      "average_polarity": 0.0034615035574573137,
+      "average_subjectivity": 0.01730422974584825
+    },
+    {
+      "date": "2019-07",
+      "message_count": 11722,
+      "positive_count": 238,
+      "negative_count": 155,
+      "neutral_count": 11329,
+      "total_sentiment_count": 83,
+      "average_polarity": 0.004488355691115464,
+      "average_subjectivity": 0.023281608188300714
+    },
+    {
+      "date": "2019-08",
+      "message_count": 7651,
+      "positive_count": 377,
+      "negative_count": 195,
+      "neutral_count": 7079,
+      "total_sentiment_count": 182,
+      "average_polarity": 0.011455428916116239,
+      "average_subjectivity": 0.05058449177216324
+    },
+    {
+      "date": "2019-09",
+      "message_count": 8172,
+      "positive_count": 318,
+      "negative_count": 142,
+      "neutral_count": 7712,
+      "total_sentiment_count": 176,
+      "average_polarity": 0.011246961465787537,
+      "average_subjectivity": 0.03729035864668477
+    },
+    {
+      "date": "2019-10",
+      "message_count": 10792,
+      "positive_count": 340,
+      "negative_count": 166,
+      "neutral_count": 10286,
+      "total_sentiment_count": 174,
+      "average_polarity": 0.007534454534021183,
+      "average_subjectivity": 0.033232182450326844
+    },
+    {
+      "date": "2019-11",
+      "message_count": 8454,
+      "positive_count": 229,
+      "negative_count": 137,
+      "neutral_count": 8088,
+      "total_sentiment_count": 92,
+      "average_polarity": 0.005367362152528282,
+      "average_subjectivity": 0.030311485256259905
+    },
+    {
+      "date": "2019-12",
+      "message_count": 6826,
+      "positive_count": 219,
+      "negative_count": 149,
+      "neutral_count": 6458,
+      "total_sentiment_count": 70,
+      "average_polarity": 0.0052270963422260015,
+      "average_subjectivity": 0.04062320951340874
+    },
+    {
+      "date": "2020-01",
+      "message_count": 13182,
+      "positive_count": 403,
+      "negative_count": 243,
+      "neutral_count": 12536,
+      "total_sentiment_count": 160,
+      "average_polarity": 0.004979762351740209,
+      "average_subjectivity": 0.03562976676512175
+    },
+    {
+      "date": "2020-02",
+      "message_count": 8170,
+      "positive_count": 257,
+      "negative_count": 114,
+      "neutral_count": 7799,
+      "total_sentiment_count": 143,
+      "average_polarity": 0.00820114768951979,
+      "average_subjectivity": 0.034098188140568794
+    },
+    {
+      "date": "2020-03",
+      "message_count": 11208,
+      "positive_count": 313,
+      "negative_count": 156,
+      "neutral_count": 10739,
+      "total_sentiment_count": 157,
+      "average_polarity": 0.00688393185448859,
+      "average_subjectivity": 0.02972987207395663
+    },
+    {
+      "date": "2020-04",
+      "message_count": 14412,
+      "positive_count": 357,
+      "negative_count": 526,
+      "neutral_count": 13529,
+      "total_sentiment_count": -169,
+      "average_polarity": -0.006224611887210782,
+      "average_subjectivity": 0.03840707436760202
+    },
+    {
+      "date": "2020-05",
+      "message_count": 11374,
+      "positive_count": 303,
+      "negative_count": 187,
+      "neutral_count": 10884,
+      "total_sentiment_count": 116,
+      "average_polarity": 0.005179780877141641,
+      "average_subjectivity": 0.03199040381521261
+    },
+    {
+      "date": "2020-06",
+      "message_count": 10812,
+      "positive_count": 229,
+      "negative_count": 174,
+      "neutral_count": 10409,
+      "total_sentiment_count": 55,
+      "average_polarity": 0.0011367170420912766,
+      "average_subjectivity": 0.02659112980526688
+    },
+    {
+      "date": "2020-07",
+      "message_count": 4452,
+      "positive_count": 111,
+      "negative_count": 57,
+      "neutral_count": 4284,
+      "total_sentiment_count": 54,
+      "average_polarity": 0.0057980975922350625,
+      "average_subjectivity": 0.02720940347961913
+    },
+    {
+      "date": "2020-08",
+      "message_count": 3457,
+      "positive_count": 116,
+      "negative_count": 67,
+      "neutral_count": 3274,
+      "total_sentiment_count": 49,
+      "average_polarity": 0.005275508052409989,
+      "average_subjectivity": 0.04119305675040418
+    },
+    {
+      "date": "2020-09",
+      "message_count": 2636,
+      "positive_count": 64,
+      "negative_count": 30,
+      "neutral_count": 2542,
+      "total_sentiment_count": 34,
+      "average_polarity": 0.005128821476744465,
+      "average_subjectivity": 0.027344340872413702
+    },
+    {
+      "date": "2020-10",
+      "message_count": 3560,
+      "positive_count": 66,
+      "negative_count": 60,
+      "neutral_count": 3434,
+      "total_sentiment_count": 6,
+      "average_polarity": 0.0012764178705189937,
+      "average_subjectivity": 0.028038668182628863
+    },
+    {
+      "date": "2020-11",
+      "message_count": 1807,
+      "positive_count": 29,
+      "negative_count": 17,
+      "neutral_count": 1761,
+      "total_sentiment_count": 12,
+      "average_polarity": 0.0022455084161038547,
+      "average_subjectivity": 0.018799552361851456
+    },
+    {
+      "date": "2020-12",
+      "message_count": 4328,
+      "positive_count": 116,
+      "negative_count": 93,
+      "neutral_count": 4119,
+      "total_sentiment_count": 23,
+      "average_polarity": 0.0010215120967150217,
+      "average_subjectivity": 0.035171076710421134
+    },
+    {
+      "date": "2021-01",
+      "message_count": 3899,
+      "positive_count": 99,
+      "negative_count": 67,
+      "neutral_count": 3733,
+      "total_sentiment_count": 32,
+      "average_polarity": 0.0022526454409629577,
+      "average_subjectivity": 0.029254072990928588
+    },
+    {
+      "date": "2021-02",
+      "message_count": 2527,
+      "positive_count": 55,
+      "negative_count": 30,
+      "neutral_count": 2442,
+      "total_sentiment_count": 25,
+      "average_polarity": 0.0031216826527471534,
+      "average_subjectivity": 0.024112756829416892
+    },
+    {
+      "date": "2021-03",
+      "message_count": 2180,
+      "positive_count": 40,
+      "negative_count": 24,
+      "neutral_count": 2116,
+      "total_sentiment_count": 16,
+      "average_polarity": 0.002857870977137031,
+      "average_subjectivity": 0.021651831221785343
+    },
+    {
+      "date": "2021-04",
+      "message_count": 1625,
+      "positive_count": 17,
+      "negative_count": 5,
+      "neutral_count": 1603,
+      "total_sentiment_count": 12,
+      "average_polarity": 0.0028095238095238095,
+      "average_subjectivity": 0.009690842490842492
+    },
+    {
+      "date": "2021-05",
+      "message_count": 2474,
+      "positive_count": 30,
+      "negative_count": 15,
+      "neutral_count": 2429,
+      "total_sentiment_count": 15,
+      "average_polarity": 0.002209165800515841,
+      "average_subjectivity": 0.01442293503227214
+    },
+    {
+      "date": "2021-06",
+      "message_count": 3826,
+      "positive_count": 47,
+      "negative_count": 9,
+      "neutral_count": 3770,
+      "total_sentiment_count": 38,
+      "average_polarity": 0.003620124212779726,
+      "average_subjectivity": 0.011157732390743367
+    },
+    {
+      "date": "2021-07",
+      "message_count": 5324,
+      "positive_count": 90,
+      "negative_count": 48,
+      "neutral_count": 5186,
+      "total_sentiment_count": 42,
+      "average_polarity": 0.002807451934283264,
+      "average_subjectivity": 0.018695470048775836
+    },
+    {
+      "date": "2021-08",
+      "message_count": 11025,
+      "positive_count": 248,
+      "negative_count": 64,
+      "neutral_count": 10713,
+      "total_sentiment_count": 184,
+      "average_polarity": 0.007980222549261215,
+      "average_subjectivity": 0.01831053709653781
+    },
+    {
+      "date": "2021-09",
+      "message_count": 5779,
+      "positive_count": 101,
+      "negative_count": 77,
+      "neutral_count": 5601,
+      "total_sentiment_count": 24,
+      "average_polarity": 0.005757610715215828,
+      "average_subjectivity": 0.015103503137765137
+    },
+    {
+      "date": "2021-10",
+      "message_count": 3288,
+      "positive_count": 59,
+      "negative_count": 51,
+      "neutral_count": 3178,
+      "total_sentiment_count": 8,
+      "average_polarity": 0.005254575045291289,
+      "average_subjectivity": 0.0183073676458713
+    },
+    {
+      "date": "2021-11",
+      "message_count": 2603,
+      "positive_count": 62,
+      "negative_count": 85,
+      "neutral_count": 2456,
+      "total_sentiment_count": -23,
+      "average_polarity": -0.0033756456225722434,
+      "average_subjectivity": 0.040435448414222946
+    },
+    {
+      "date": "2021-12",
+      "message_count": 8362,
+      "positive_count": 129,
+      "negative_count": 161,
+      "neutral_count": 8072,
+      "total_sentiment_count": -32,
+      "average_polarity": -0.0014154073564270674,
+      "average_subjectivity": 0.023538132199887995
+    },
+    {
+      "date": "2022-01",
+      "message_count": 15484,
+      "positive_count": 677,
+      "negative_count": 574,
+      "neutral_count": 14233,
+      "total_sentiment_count": 103,
+      "average_polarity": 0.0008323856729374952,
+      "average_subjectivity": 0.05862697203231147
+    },
+    {
+      "date": "2022-02",
+      "message_count": 8461,
+      "positive_count": 381,
+      "negative_count": 256,
+      "neutral_count": 7824,
+      "total_sentiment_count": 125,
+      "average_polarity": 0.00907650975842363,
+      "average_subjectivity": 0.05427167886511419
+    },
+    {
+      "date": "2022-03",
+      "message_count": 5898,
+      "positive_count": 328,
+      "negative_count": 189,
+      "neutral_count": 5381,
+      "total_sentiment_count": 139,
+      "average_polarity": 0.01186739024707295,
+      "average_subjectivity": 0.06426272694753675
+    },
+    {
+      "date": "2022-04",
+      "message_count": 9277,
+      "positive_count": 536,
+      "negative_count": 264,
+      "neutral_count": 8477,
+      "total_sentiment_count": 272,
+      "average_polarity": 0.012060270798809317,
+      "average_subjectivity": 0.05843445222191043
+    },
+    {
+      "date": "2022-05",
+      "message_count": 7998,
+      "positive_count": 177,
+      "negative_count": 119,
+      "neutral_count": 7702,
+      "total_sentiment_count": 58,
+      "average_polarity": 0.0041555442397614275,
+      "average_subjectivity": 0.024911775079839302
+    },
+    {
+      "date": "2022-06",
+      "message_count": 6319,
+      "positive_count": 278,
+      "negative_count": 141,
+      "neutral_count": 5900,
+      "total_sentiment_count": 137,
+      "average_polarity": 0.010992052463853782,
+      "average_subjectivity": 0.041732329745316335
+    },
+    {
+      "date": "2022-07",
+      "message_count": 4153,
+      "positive_count": 240,
+      "negative_count": 105,
+      "neutral_count": 3808,
+      "total_sentiment_count": 135,
+      "average_polarity": 0.014432188440473236,
+      "average_subjectivity": 0.054807223847996016
+    },
+    {
+      "date": "2022-08",
+      "message_count": 1499,
+      "positive_count": 137,
+      "negative_count": 49,
+      "neutral_count": 1313,
+      "total_sentiment_count": 88,
+      "average_polarity": 0.024600114843276958,
+      "average_subjectivity": 0.07418132236219296
+    },
+    {
+      "date": "2022-09",
+      "message_count": 4413,
+      "positive_count": 723,
+      "negative_count": 361,
+      "neutral_count": 3329,
+      "total_sentiment_count": 362,
+      "average_polarity": 0.036314508486740636,
+      "average_subjectivity": 0.15908635250179518
+    },
+    {
+      "date": "2022-10",
+      "message_count": 5461,
+      "positive_count": 887,
+      "negative_count": 423,
+      "neutral_count": 4151,
+      "total_sentiment_count": 464,
+      "average_polarity": 0.03976418800040759,
+      "average_subjectivity": 0.15824549954697834
+    },
+    {
+      "date": "2022-11",
+      "message_count": 6041,
+      "positive_count": 981,
+      "negative_count": 488,
+      "neutral_count": 4572,
+      "total_sentiment_count": 493,
+      "average_polarity": 0.034080622531685985,
+      "average_subjectivity": 0.15287757217055972
+    },
+    {
+      "date": "2022-12",
+      "message_count": 8217,
+      "positive_count": 1595,
+      "negative_count": 692,
+      "neutral_count": 5930,
+      "total_sentiment_count": 903,
+      "average_polarity": 0.04510994406245576,
+      "average_subjectivity": 0.17380409564423446
+    },
+    {
+      "date": "2023-01",
+      "message_count": 6651,
+      "positive_count": 959,
+      "negative_count": 421,
+      "neutral_count": 5271,
+      "total_sentiment_count": 538,
+      "average_polarity": 0.033941565767933904,
+      "average_subjectivity": 0.12935366789326525
+    },
+    {
+      "date": "2023-02",
+      "message_count": 1855,
+      "positive_count": 351,
+      "negative_count": 159,
+      "neutral_count": 1345,
+      "total_sentiment_count": 192,
+      "average_polarity": 0.05101202146909696,
+      "average_subjectivity": 0.16758939877383247
+    },
+    {
+      "date": "2023-03",
+      "message_count": 4083,
+      "positive_count": 640,
+      "negative_count": 320,
+      "neutral_count": 3123,
+      "total_sentiment_count": 320,
+      "average_polarity": 0.032389125735604395,
+      "average_subjectivity": 0.1450606451819229
+    },
+    {
+      "date": "2023-04",
+      "message_count": 3943,
+      "positive_count": 778,
+      "negative_count": 350,
+      "neutral_count": 2815,
+      "total_sentiment_count": 428,
+      "average_polarity": 0.045868787098077866,
+      "average_subjectivity": 0.16806752874291692
+    },
+    {
+      "date": "2023-05",
+      "message_count": 4169,
+      "positive_count": 760,
+      "negative_count": 386,
+      "neutral_count": 3023,
+      "total_sentiment_count": 374,
+      "average_polarity": 0.03772397963511138,
+      "average_subjectivity": 0.16830347451009528
+    },
+    {
+      "date": "2023-06",
+      "message_count": 2595,
+      "positive_count": 537,
+      "negative_count": 231,
+      "neutral_count": 1827,
+      "total_sentiment_count": 306,
+      "average_polarity": 0.04701053641621813,
+      "average_subjectivity": 0.18006219539574672
+    },
+    {
+      "date": "2023-07",
+      "message_count": 2699,
+      "positive_count": 520,
+      "negative_count": 253,
+      "neutral_count": 1926,
+      "total_sentiment_count": 267,
+      "average_polarity": 0.04207429983928642,
+      "average_subjectivity": 0.17701784167068646
+    },
+    {
+      "date": "2023-08",
+      "message_count": 3420,
+      "positive_count": 533,
+      "negative_count": 277,
+      "neutral_count": 2610,
+      "total_sentiment_count": 256,
+      "average_polarity": 0.03345827171395061,
+      "average_subjectivity": 0.15000729601891827
+    },
+    {
+      "date": "2023-09",
+      "message_count": 1712,
+      "positive_count": 361,
+      "negative_count": 150,
+      "neutral_count": 1201,
+      "total_sentiment_count": 211,
+      "average_polarity": 0.06044557289066144,
+      "average_subjectivity": 0.18888699737707193
+    },
+    {
+      "date": "2023-10",
+      "message_count": 1912,
+      "positive_count": 387,
+      "negative_count": 177,
+      "neutral_count": 1348,
+      "total_sentiment_count": 210,
+      "average_polarity": 0.04129208549258948,
+      "average_subjectivity": 0.1823354275414529
+    },
+    {
+      "date": "2023-11",
+      "message_count": 2045,
+      "positive_count": 451,
+      "negative_count": 184,
+      "neutral_count": 1410,
+      "total_sentiment_count": 267,
+      "average_polarity": 0.05341503620164907,
+      "average_subjectivity": 0.1919173057875253
+    },
+    {
+      "date": "2023-12",
+      "message_count": 1498,
+      "positive_count": 356,
+      "negative_count": 146,
+      "neutral_count": 996,
+      "total_sentiment_count": 210,
+      "average_polarity": 0.04983152239799848,
+      "average_subjectivity": 0.2098035683383035
+    },
+    {
+      "date": "2024-01",
+      "message_count": 6185,
+      "positive_count": 657,
+      "negative_count": 266,
+      "neutral_count": 5262,
+      "total_sentiment_count": 391,
+      "average_polarity": 0.025908224935595147,
+      "average_subjectivity": 0.09046799271007468
+    },
+    {
+      "date": "2024-02",
+      "message_count": 3310,
+      "positive_count": 540,
+      "negative_count": 240,
+      "neutral_count": 2530,
+      "total_sentiment_count": 300,
+      "average_polarity": 0.03817364381650095,
+      "average_subjectivity": 0.15344200154175328
+    },
+    {
+      "date": "2024-03",
+      "message_count": 3007,
+      "positive_count": 515,
+      "negative_count": 284,
+      "neutral_count": 2208,
+      "total_sentiment_count": 231,
+      "average_polarity": 0.03367460028666218,
+      "average_subjectivity": 0.1781371909406732
+    },
+    {
+      "date": "2024-04",
+      "message_count": 3568,
+      "positive_count": 691,
+      "negative_count": 329,
+      "neutral_count": 2548,
+      "total_sentiment_count": 362,
+      "average_polarity": 0.044954443921841634,
+      "average_subjectivity": 0.1892817227833108
+    },
+    {
+      "date": "2024-05",
+      "message_count": 3579,
+      "positive_count": 729,
+      "negative_count": 318,
+      "neutral_count": 2532,
+      "total_sentiment_count": 411,
+      "average_polarity": 0.045217010523186676,
+      "average_subjectivity": 0.1961667845985627
+    },
+    {
+      "date": "2024-06",
+      "message_count": 3079,
+      "positive_count": 562,
+      "negative_count": 297,
+      "neutral_count": 2220,
+      "total_sentiment_count": 265,
+      "average_polarity": 0.03913328781280402,
+      "average_subjectivity": 0.18629780047317399
+    },
+    {
+      "date": "2024-07",
+      "message_count": 5168,
+      "positive_count": 1005,
+      "negative_count": 516,
+      "neutral_count": 3647,
+      "total_sentiment_count": 489,
+      "average_polarity": 0.0400075676649268,
+      "average_subjectivity": 0.19494924285154422
+    },
+    {
+      "date": "2024-08",
+      "message_count": 6794,
+      "positive_count": 1574,
+      "negative_count": 749,
+      "neutral_count": 4471,
+      "total_sentiment_count": 825,
+      "average_polarity": 0.05237420766895542,
+      "average_subjectivity": 0.2209291252219479
+    },
+    {
+      "date": "2024-09",
+      "message_count": 6068,
+      "positive_count": 764,
+      "negative_count": 404,
+      "neutral_count": 4900,
+      "total_sentiment_count": 360,
+      "average_polarity": 0.026377401651066102,
+      "average_subjectivity": 0.1293676983960197
+    }
+  ]
+}
