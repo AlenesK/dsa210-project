@@ -1,0 +1,253 @@
+{
+  "overall_stats": {
+    "message_count": 119527,
+    "positive_count": 24762,
+    "negative_count": 11609,
+    "neutral_count": 81676,
+    "total_sentiment_count": 13153,
+    "average_polarity": 0.045954551073499744,
+    "average_subjectivity": 0.19524863703627632
+  },
+  "time_series": [
+    {
+      "date": "00",
+      "message_count": 3211,
+      "positive_count": 797,
+      "negative_count": 336,
+      "neutral_count": 2078,
+      "total_sentiment_count": 461,
+      "average_polarity": 0.0572847141120209,
+      "average_subjectivity": 0.2168493434327664
+    },
+    {
+      "date": "01",
+      "message_count": 2154,
+      "positive_count": 521,
+      "negative_count": 267,
+      "neutral_count": 1366,
+      "total_sentiment_count": 254,
+      "average_polarity": 0.04864745974677101,
+      "average_subjectivity": 0.2329447724232618
+    },
+    {
+      "date": "02",
+      "message_count": 1078,
+      "positive_count": 296,
+      "negative_count": 146,
+      "neutral_count": 636,
+      "total_sentiment_count": 150,
+      "average_polarity": 0.06085938706126561,
+      "average_subjectivity": 0.2512303882427954
+    },
+    {
+      "date": "03",
+      "message_count": 388,
+      "positive_count": 103,
+      "negative_count": 49,
+      "neutral_count": 236,
+      "total_sentiment_count": 54,
+      "average_polarity": 0.06201022559914313,
+      "average_subjectivity": 0.2358314691465465
+    },
+    {
+      "date": "04",
+      "message_count": 497,
+      "positive_count": 129,
+      "negative_count": 59,
+      "neutral_count": 309,
+      "total_sentiment_count": 70,
+      "average_polarity": 0.05817940108181554,
+      "average_subjectivity": 0.24613290629806375
+    },
+    {
+      "date": "05",
+      "message_count": 1445,
+      "positive_count": 360,
+      "negative_count": 172,
+      "neutral_count": 913,
+      "total_sentiment_count": 188,
+      "average_polarity": 0.06081168478763781,
+      "average_subjectivity": 0.23985714261596341
+    },
+    {
+      "date": "06",
+      "message_count": 2053,
+      "positive_count": 494,
+      "negative_count": 243,
+      "neutral_count": 1316,
+      "total_sentiment_count": 251,
+      "average_polarity": 0.05255446580376557,
+      "average_subjectivity": 0.23288506374423323
+    },
+    {
+      "date": "07",
+      "message_count": 2611,
+      "positive_count": 666,
+      "negative_count": 300,
+      "neutral_count": 1645,
+      "total_sentiment_count": 366,
+      "average_polarity": 0.05998384740250871,
+      "average_subjectivity": 0.23084487019923677
+    },
+    {
+      "date": "08",
+      "message_count": 3721,
+      "positive_count": 866,
+      "negative_count": 451,
+      "neutral_count": 2404,
+      "total_sentiment_count": 415,
+      "average_polarity": 0.04848950431268674,
+      "average_subjectivity": 0.2284454812658255
+    },
+    {
+      "date": "09",
+      "message_count": 4030,
+      "positive_count": 979,
+      "negative_count": 420,
+      "neutral_count": 2631,
+      "total_sentiment_count": 559,
+      "average_polarity": 0.05580715546465133,
+      "average_subjectivity": 0.21870059606865233
+    },
+    {
+      "date": "10",
+      "message_count": 4533,
+      "positive_count": 985,
+      "negative_count": 447,
+      "neutral_count": 3101,
+      "total_sentiment_count": 538,
+      "average_polarity": 0.04848412003174123,
+      "average_subjectivity": 0.202478963361183
+    },
+    {
+      "date": "11",
+      "message_count": 4936,
+      "positive_count": 1119,
+      "negative_count": 547,
+      "neutral_count": 3270,
+      "total_sentiment_count": 572,
+      "average_polarity": 0.047396220893246827,
+      "average_subjectivity": 0.21799038536282953
+    },
+    {
+      "date": "12",
+      "message_count": 6230,
+      "positive_count": 1377,
+      "negative_count": 645,
+      "neutral_count": 4208,
+      "total_sentiment_count": 732,
+      "average_polarity": 0.04838050583929303,
+      "average_subjectivity": 0.2081383636140889
+    },
+    {
+      "date": "13",
+      "message_count": 6796,
+      "positive_count": 1465,
+      "negative_count": 688,
+      "neutral_count": 4643,
+      "total_sentiment_count": 777,
+      "average_polarity": 0.04931388848193944,
+      "average_subjectivity": 0.20563550763308136
+    },
+    {
+      "date": "14",
+      "message_count": 6848,
+      "positive_count": 1478,
+      "negative_count": 648,
+      "neutral_count": 4722,
+      "total_sentiment_count": 830,
+      "average_polarity": 0.05120457536907077,
+      "average_subjectivity": 0.19951040279749085
+    },
+    {
+      "date": "15",
+      "message_count": 7789,
+      "positive_count": 1589,
+      "negative_count": 724,
+      "neutral_count": 5476,
+      "total_sentiment_count": 865,
+      "average_polarity": 0.04548470880350376,
+      "average_subjectivity": 0.1906413005421013
+    },
+    {
+      "date": "16",
+      "message_count": 7256,
+      "positive_count": 1458,
+      "negative_count": 654,
+      "neutral_count": 5144,
+      "total_sentiment_count": 804,
+      "average_polarity": 0.047924604625964415,
+      "average_subjectivity": 0.19056209715924563
+    },
+    {
+      "date": "17",
+      "message_count": 7008,
+      "positive_count": 1358,
+      "negative_count": 644,
+      "neutral_count": 5006,
+      "total_sentiment_count": 714,
+      "average_polarity": 0.040193674271853656,
+      "average_subjectivity": 0.1852237911715374
+    },
+    {
+      "date": "18",
+      "message_count": 8277,
+      "positive_count": 1504,
+      "negative_count": 682,
+      "neutral_count": 6091,
+      "total_sentiment_count": 822,
+      "average_polarity": 0.04147817065509367,
+      "average_subjectivity": 0.1743034478405355
+    },
+    {
+      "date": "19",
+      "message_count": 8887,
+      "positive_count": 1566,
+      "negative_count": 749,
+      "neutral_count": 6572,
+      "total_sentiment_count": 817,
+      "average_polarity": 0.03824374752565814,
+      "average_subjectivity": 0.17146294812486568
+    },
+    {
+      "date": "20",
+      "message_count": 8038,
+      "positive_count": 1491,
+      "negative_count": 745,
+      "neutral_count": 5802,
+      "total_sentiment_count": 746,
+      "average_polarity": 0.038768885382913204,
+      "average_subjectivity": 0.17845794237008808
+    },
+    {
+      "date": "21",
+      "message_count": 8602,
+      "positive_count": 1616,
+      "negative_count": 803,
+      "neutral_count": 6183,
+      "total_sentiment_count": 813,
+      "average_polarity": 0.0418061675710948,
+      "average_subjectivity": 0.1773528192680227
+    },
+    {
+      "date": "22",
+      "message_count": 6690,
+      "positive_count": 1336,
+      "negative_count": 650,
+      "neutral_count": 4704,
+      "total_sentiment_count": 686,
+      "average_polarity": 0.043830926553585815,
+      "average_subjectivity": 0.18700046791612385
+    },
+    {
+      "date": "23",
+      "message_count": 4969,
+      "positive_count": 1209,
+      "negative_count": 540,
+      "neutral_count": 3220,
+      "total_sentiment_count": 669,
+      "average_polarity": 0.05141970946142841,
+      "average_subjectivity": 0.22104713648910715
+    }
+  ]
+}
