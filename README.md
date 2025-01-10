@@ -1,7 +1,13 @@
-# dsa210-project
-DSA210 Fall 2024 Term Project
+# DSA210 Project
+Discord Usage Data Analysis
+
+## Motivation
+For this project I've wanted to use a source of which I could get the most data about myself. And well, in this day and age it ought to be social media, doesn't it? Except the only social media-like app I use frequently ~~is~~ used to be Discord (up until the day it was banned in our country, of course, since I'm a good citizen :) ). Luckily for me, my Discord data is easily accessible to me, and the diverse nature of text data is perfectly fit for an EDA project! Moreover, by analying how frequently I use Discord, the contents of my messages etc. I could gain insights on my own online behavior.
 
 ## Dataset
+
+
+
 For this project I've decided to use my Discord messages as the dataset. I've contemplated using other datasets, which there aren't many since I don't use most social media, nor have a spotify account. My chess games on chess.com could've been another option, however I haven't been playing for that long, so the dataset would be rather small which could become a major limitation. I believe my Discord data, a platform which I've consistently been using for a long time (up until the day it was banned in our country, of course, since I'm a good citizen :) ) with no major pauses or irregularities, would be a good pick as a large and representative dataset.
 
 ## Project Idea and Plan
