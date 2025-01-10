@@ -19,5 +19,12 @@ The data was directly obtained through a request to Discord, and includes all me
   - If DM:
     - Recipients: Unique user ID's of the recipients
 
+## Data Processing
+The relevant parts from the Data I've obtained for this project were the message contents, timestamps and channels the messages were sent in. So the first step was to prune the rest of the data, and combine the remaining ones into unified files that would be easier to work with (since, in the raw data package, messages were categorized by channel).
+The next step was to perform the sentiment analysis on each message (almost 500k of them!) and store the results together with the messages. I've used the [TextBlob](https://textblob.readthedocs.io/en/dev/) python library to achieve this.
+
+
+
+
 
 
