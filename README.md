@@ -11,11 +11,11 @@ The data was directly obtained through a request to Discord, and includes all me
 - Attachments: Images or other media I might have included in the message
 - ID: Unique message ID for each message I've sent
 - Type: Either "Guild" or "DM"
- - If Guild:
-  - Guild Name: Name of the server the message was sent in
-  - Guild ID: Unique ID of the server the message was sent in
- - If DM:
-  - Recipients: Unique user ID's of the recipients
+  - If Guild:
+    - Guild Name: Name of the server the message was sent in
+    - Guild ID: Unique ID of the server the message was sent in
+  - If DM:
+    - Recipients: Unique user ID's of the recipients
 
 ## Project Idea and Plan
 The dataset, comprising of text messages and their respective timestamps, is very rich in information, and could be used in many ways. For this project, a simple yet interesting analysis could be in counting and plotting the number of messages in specific intervals of time, i.e. daily, weekly, or monthly. Or based on specific weekdays etc. etc. My null hypothesis would be that there's no significant difference overall.
