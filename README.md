@@ -26,7 +26,7 @@ The next step was to perform the sentiment analysis on each message (almost 500k
 ## Visualization
 Lastly I needed to visualize the resulting dataset so that I could make sense of it and draw conclusions. I've used the [matplotlib](https://matplotlib.org/) and [seaborn](https://seaborn.pydata.org/) libraries to create graphs for the final presentation, but moreover, I've created some interactive charts on my website (link above) which you can use to explore my data yourself!
 
-
-
+## Findings and Conclusion
+Admittedly I was surprised at some of the results I've obtained from this project, while some other results have been as predicted. You can find a more detailed breakdown of my findings and conclusion in my presentation. Thank you for your time! :)
 
 
