@@ -7,10 +7,10 @@ def load_json_file(filepath):
         return json.load(f)
 
 def save_json_file(filepath, data):
-    # Create data folder if not exists
-    os.makedirs('data', exist_ok=True)
+    # Create data/raw folder if not exists
+    os.makedirs('data/raw', exist_ok=True)
     
-    full_path = os.path.join('data', filepath)
+    full_path = os.path.join('data/raw', filepath)
     
     with open(full_path, 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
@@ -19,6 +19,9 @@ def combine_messages():
     dm_messages = []
     guild_messages = []
     all_messages = []
+    
+    # Define cutoff date
+    cutoff_date = datetime.strptime('2024-09-30 23:59:59', '%Y-%m-%d %H:%M:%S')
     
     # Walk through all folders in ./messages
     # Folder Structure:
@@ -36,12 +39,18 @@ def combine_messages():
             channel_info = load_json_file(channel_path)
             messages = load_json_file(messages_path)
             
-            # Add messages to lists
+            # Filter messages before adding to lists
+            filtered_messages = [
+                msg for msg in messages 
+                if datetime.strptime(msg['Timestamp'], '%Y-%m-%d %H:%M:%S') <= cutoff_date
+            ]
+            
+            # Add filtered messages to lists
             if channel_info.get('type') == 'DM':
-                dm_messages.extend(messages)
+                dm_messages.extend(filtered_messages)
             else:
-                guild_messages.extend(messages)
-            all_messages.extend(messages)
+                guild_messages.extend(filtered_messages)
+            all_messages.extend(filtered_messages)
     
     # Sort messages by timestamp
     def sort_by_timestamp(msg):
